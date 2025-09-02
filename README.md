@@ -21,7 +21,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-ashraf-26b35529" target="blank">
+<a href="https://www.linkedin.com/in/ahmed-ashraf-26b355293/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
 </a>
 <a href="https://github.com/AhmedAshraf2222" target="blank">
